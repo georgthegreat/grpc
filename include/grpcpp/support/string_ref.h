@@ -19,7 +19,7 @@
 #ifndef GRPCPP_SUPPORT_STRING_REF_H
 #define GRPCPP_SUPPORT_STRING_REF_H
 
-#include <absl/strings/string_view.h>
+#include "absl/strings/string_view.h"
 
 namespace grpc {
 
